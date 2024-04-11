@@ -1,7 +1,10 @@
 # Data Science Major Capstone 
-By: Sarah Katz 
-Advisor: Dr. Anny-Claude Joseph 
-Help from: Professor Eni Mustafaraj, Professor Kyung Park, 
+By: Sarah Katz      
+
+Advisor: Dr. Anny-Claude Joseph        
+
+Help from: Professor Eni Mustafaraj, Professor Kyung Park,     
+
   CS 350H independent study group (Mary Jo del Granado, Edith Po, Dora Li, 
   Anjali Karki, Tayae Rogers) 
 
