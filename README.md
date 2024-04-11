@@ -4,9 +4,10 @@ By: Sarah Katz
 Advisor: Dr. Anny-Claude Joseph        
 
 Help from: Professor Eni Mustafaraj, Professor Kyung Park,     
-
+</pre>
   CS 350H independent study group (Mary Jo del Granado, Edith Po, Dora Li, 
   Anjali Karki, Tayae Rogers) 
+</pre>
 
 The housing market in the greater Boston area has become highly competitive. It is economically and informationally beneficial for brokers, appraisers, lenders, buyers and/or sellers to understand specifically which characteristics of homes are the most valuable. The purpose of this project is to determine: What home characteristics are the most important for explaining the variation in home prices in the greater Boston area? 
 
