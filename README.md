@@ -1,4 +1,5 @@
-# Data Science Major Capstone 
+# Data Science Major Capstone:
+# Relationship Between Home Attributes and Price in the Greater Boston Area 
 By: Sarah Katz      
 
 Advisor: Dr. Anny-Claude Joseph        
