@@ -14,7 +14,7 @@ The housing market in the greater Boston area has become highly competitive. It 
 The CS 350H independent study group developed a web scraping program that collects housing information from an online real estate platform. I used this dataset to analyze 88,412 recent housing transactions across 192 zip codes from 2020 to 2023. 
 
 ## Analysis 
-Refer to final R code for analysis. The multiple linear regression model includes 14 predictors and explains 68.55% of variation in home prices in the greater Boston area. 
+Refer to final R code and final poster for analysis. The multiple linear regression model includes 14 predictors and explains 68.55% of variation in home prices in the greater Boston area. 
 
 ## Files 
 For the final code file, see "DSCapstoneFinalCode.R". 
