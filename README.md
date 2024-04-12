@@ -16,7 +16,7 @@ The CS 350H independent study group developed a web scraping program that collec
 ## Analysis 
 Refer to final R code for analysis. The multiple linear regression model includes 14 predictors and explains 68.55% of variation in home prices in the greater Boston area. 
 
-## Files: 
+## Files 
 For the final code file, see "DSCapstoneFinalCode.R". 
 For the final pdf poster, see "DSCapstonePosterFinal.pdf". 
 If the pdf has an issue loading fully, see "FinalPoster.png". 
